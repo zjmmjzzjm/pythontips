@@ -17,3 +17,11 @@ for k, v in coronavirus.items():
 print('# 遍历打印')
 for k in coronavirus:
     print(k, coronavirus[k])
+
+extr = {
+    '广东' :'现存确诊12例 累计确诊135例 死亡3例 治愈314例',
+    '北京': '现存确诊100例 累计确诊435例 死亡8例 治愈334例',
+}
+
+coronavirus.update(extr)
+print(coronavirus['123'])
