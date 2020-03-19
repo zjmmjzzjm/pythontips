@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<company>
+	<name>mediumcn ltd</name>
+	<staff id="1001">
+		<nickname>Ben</nickname>
+		<salary>30,000</salary>
+	</staff>
+	<staff id="1002">
+		<nickname>Jim</nickname>
+		<salary>30,000</salary>
+	</staff>
+	<staff id="1003">
+		<nickname>Alen</nickname>
+		<salary>40,000</salary>
+	</staff>
+</company>
